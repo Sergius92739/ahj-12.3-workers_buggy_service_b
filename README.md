@@ -1,6 +1,6 @@
 #### Deployment: <a href="">Github Pages</a>
 #### Frontend: <a href="">Repository</a>
-#### Server: <a href="">Heroku</a>
+#### Server: <a href="https://ahj-12-3-workers-buggy-service.herokuapp.com/">Heroku</a>
 
 ---
 
